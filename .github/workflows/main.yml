@@ -33,7 +33,7 @@ jobs:
 
       # Build
       - name: Build project
-        uses: webbertakken/unity-builder@v0.10
+        uses: webbertakken/unity-builder@v1.4
         with:
           projectPath: test-project
           unityVersion: 2019.2.11f1
@@ -198,11 +198,7 @@ jobs:
         unityVersion:
           - 2019.2.11f1
         targetPlatform:
-          - StandaloneOSX # Build a macOS standalone (Intel 64-bit).
-          - StandaloneWindows64 # Build a Windows 64-bit standalone.
-          - StandaloneLinux64 # Build a Linux 64-bit standalone.
-          - iOS # Build an iOS player.
-          - WebGL # WebGL.
+          - Android # Build a macOS standalone (Intel 64-bit).
     steps:
       - uses: actions/checkout@v2
         with:
@@ -223,7 +219,7 @@ jobs:
         with:
           name: Test results (all modes)
           path: ${{ steps.testRunner.outputs.artifactsPath }}
-      - uses: webbertakken/unity-builder@v0.10
+      - uses: webbertakken/unity-builder@v1.4
         with:
           projectPath: ${{ matrix.projectPath }}
           unityVersion: ${{ matrix.unityVersion }}
