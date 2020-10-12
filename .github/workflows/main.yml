@@ -5,7 +5,7 @@ on:
   push: { branches: [WebGL] }
 
 env:
-  UNITY_LICENSE: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><root>\n    <License id=\"Terms\">\n        <MachineBindings>\n            <Binding Key=\"1\" Value=\"d39b8e2f4d364b2e98b06afa0c6e08c5\"/>\n            <Binding Key=\"2\" Value=\"d39b8e2f4d364b2e98b06afa0c6e08c5\"/>\n        </MachineBindings>\n        <MachineID Value=\"Xxo1ZKbdPu/IATrc0mPBYANJFF0=\"/>\n        <SerialHash Value=\"1efd68fa935192b6090ac03c77d289a9f588c55a\"/>\n        <Features>\n            <Feature Value=\"33\"/>\n            <Feature Value=\"1\"/>\n            <Feature Value=\"12\"/>\n            <Feature Value=\"2\"/>\n            <Feature Value=\"24\"/>\n            <Feature Value=\"3\"/>\n            <Feature Value=\"36\"/>\n            <Feature Value=\"17\"/>\n            <Feature Value=\"19\"/>\n            <Feature Value=\"62\"/>\n        </Features>\n        <DeveloperData Value=\"AQAAAEY0LUg2WFMtUE00NS1SM0M4LUUyWlotWkdWOA==\"/>\n        <SerialMasked Value=\"F4-H6XS-PM45-R3C8-E2ZZ-XXXX\"/>\n        <StartDate Value=\"2018-05-02T00:00:00\"/>\n        <UpdateDate Value=\"2019-11-25T18:23:38\"/>\n        <InitialActivationDate Value=\"2018-05-02T14:21:28\"/>\n        <LicenseVersion Value=\"6.x\"/>\n        <ClientProvidedVersion Value=\"2019.2.11f1\"/>\n        <AlwaysOnline Value=\"false\"/>\n        <Entitlements>\n            <Entitlement Ns=\"unity_editor\" Tag=\"UnityPersonal\" Type=\"EDITOR\" ValidTo=\"9999-12-31T00:00:00\"/>\n        </Entitlements>\n    </License>\n<Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments\"/><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\"/><Reference URI=\"#Terms\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"/></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\"/><DigestValue>JHdOBFmBNq2H8BrGFzir/StLoYo=</DigestValue></Reference></SignedInfo><SignatureValue>aENLHd37a51RtP2/g7YU0Pexf5mx0/ENXYGtrPzqwZ8NQt2AsSdxGnl0CUB45/GuNXfJVDt2HWot\ncNYZB2OylVBn1WHQbKZlPmm8gEAMz0MYbr4Isb5i5buryBrZlmbEOjnRI+pEg1CBwlgMo6xdtjjE\n/d7cC293QIUO91kdzRXftYou1dNaUyuPL9ZH65vdB2pDXGRNxgUVD+GnnqZA7b5L2HXqNQclcWAK\n5Yd1BeF3VzR1iLw9G/SmH5oOhnpXSmqbL4qk7LVP2/mgXpFk5kP4X8VC3z47obNhBIGq40dwWyEe\nUYk5/nRAOkZawDT+tcu96e06gPC9Cxk5PdbRbA==</SignatureValue></Signature></root>"
+  UNITY_LICENSE: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><root>\n    <License id=\"Terms\">\n        <MachineBindings>\n            <Binding Key=\"1\" Value=\"d39b8e2f4d364b2e98b06afa0c6e08c5\"/>\n            <Binding Key=\"2\" Value=\"d39b8e2f4d364b2e98b06afa0c6e08c5\"/>\n        </MachineBindings>\n        <MachineID Value=\"Xxo1ZKbdPu/IATrc0mPBYANJFF0=\"/>\n        <SerialHash Value=\"1efd68fa935192b6090ac03c77d289a9f588c55a\"/>\n        <Features>\n            <Feature Value=\"33\"/>\n            <Feature Value=\"1\"/>\n            <Feature Value=\"12\"/>\n            <Feature Value=\"2\"/>\n            <Feature Value=\"24\"/>\n            <Feature Value=\"3\"/>\n            <Feature Value=\"36\"/>\n            <Feature Value=\"17\"/>\n            <Feature Value=\"19\"/>\n            <Feature Value=\"62\"/>\n        </Features>\n        <DeveloperData Value=\"AQAAAEY0LUg2WFMtUE00NS1SM0M4LUUyWlotWkdWOA==\"/>\n        <SerialMasked Value=\"F4-H6XS-PM45-R3C8-E2ZZ-XXXX\"/>\n        <StartDate Value=\"2018-05-02T00:00:00\"/>\n        <UpdateDate Value=\"2019-11-25T18:23:38\"/>\n        <InitialActivationDate Value=\"2018-05-02T14:21:28\"/>\n        <LicenseVersion Value=\"6.x\"/>\n        <ClientProvidedVersion Value=\"2019.4.1f1\"/>\n        <AlwaysOnline Value=\"false\"/>\n        <Entitlements>\n            <Entitlement Ns=\"unity_editor\" Tag=\"UnityPersonal\" Type=\"EDITOR\" ValidTo=\"9999-12-31T00:00:00\"/>\n        </Entitlements>\n    </License>\n<Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments\"/><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\"/><Reference URI=\"#Terms\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"/></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\"/><DigestValue>JHdOBFmBNq2H8BrGFzir/StLoYo=</DigestValue></Reference></SignedInfo><SignatureValue>aENLHd37a51RtP2/g7YU0Pexf5mx0/ENXYGtrPzqwZ8NQt2AsSdxGnl0CUB45/GuNXfJVDt2HWot\ncNYZB2OylVBn1WHQbKZlPmm8gEAMz0MYbr4Isb5i5buryBrZlmbEOjnRI+pEg1CBwlgMo6xdtjjE\n/d7cC293QIUO91kdzRXftYou1dNaUyuPL9ZH65vdB2pDXGRNxgUVD+GnnqZA7b5L2HXqNQclcWAK\n5Yd1BeF3VzR1iLw9G/SmH5oOhnpXSmqbL4qk7LVP2/mgXpFk5kP4X8VC3z47obNhBIGq40dwWyEe\nUYk5/nRAOkZawDT+tcu96e06gPC9Cxk5PdbRbA==</SignatureValue></Signature></root>"
 #   UNITY_LICENSE: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><root>\n     <License id=\"Terms\">\n         <MachineBindings>\n             <Binding Key=\"1\" Value=\"00342-35627-60131-AAOEM\"/>\n             <Binding Key=\"2\" Value=\"CA4E2_0E_0A981D_3C_9E24EA_0C_000000_00.1\"/>\n             <Binding Key=\"4\" Value=\"RzFHMVowMw==\"/>\n             <Binding Key=\"5\" Value=\"ca:a1:f9:15:b8:df\"/>\n         </MachineBindings>\n         <MachineID Value=\"0SSi1HtP46jbyoJreYZkeWTycsw=\"/>\n         <SerialHash Value=\"5c3b9f6bcf4d2b7a4960cd06528ffc5b23580b51\"/>\n         <Features>\n             <Feature Value=\"33\"/>\n             <Feature Value=\"12\"/>\n             <Feature Value=\"34\"/>\n             <Feature Value=\"13\"/>\n             <Feature Value=\"24\"/>\n             <Feature Value=\"25\"/>\n             <Feature Value=\"36\"/>\n             <Feature Value=\"17\"/>\n             <Feature Value=\"18\"/>\n             <Feature Value=\"19\"/>\n             <Feature Value=\"0\"/>\n             <Feature Value=\"1\"/>\n             <Feature Value=\"2\"/>\n             <Feature Value=\"3\"/>\n             <Feature Value=\"4\"/>\n             <Feature Value=\"60\"/>\n             <Feature Value=\"20\"/>\n         </Features>\n         <DeveloperData Value=\"AQAAAFNDLU5ZMzMtVk00OS1TS000LVNCMkgtUEZKSA==\"/>\n         <SerialMasked Value=\"SC-NY33-VM49-SKM4-SB2H-XXXX\"/>\n         <StartDate Value=\"2020-04-12T00:00:00\"/>\n         <StopDate Value=\"2021-04-13T09:38:15\"/>\n         <UpdateDate Value=\"2020-09-23T08:32:35\"/>\n         <InitialActivationDate Value=\"2020-04-12T13:23:24\"/>\n         <LicenseVersion Value=\"6.x\"/>\n         <ClientProvidedVersion Value=\"2017.2.0\"/>\n         <AlwaysOnline Value=\"true\"/>\n         <Entitlements>\n             <Entitlement Ns=\"unity_editor\" Tag=\"UnityPro\" Type=\"EDITOR\" ValidTo=\"2021-04-12T09:38:15\"/>\n             <Entitlement Ns=\"unity_editor\" Tag=\"UnityPersonal\" Type=\"EDITOR\" ValidTo=\"9999-12-31T00:00:00\"/>\n             <Entitlement Ns=\"unity_editor\" Tag=\"DarkSkin\" Type=\"EDITOR_FEATURE\" ValidTo=\"9999-12-31T00:00:00\"/>\n         </Entitlements>\n     </License>\n <Signature xmlns=\"http://www.w3.org/2000/09/xmldsig#\"><SignedInfo><CanonicalizationMethod Algorithm=\"http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments\"/><SignatureMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#rsa-sha1\"/><Reference URI=\"#Terms\"><Transforms><Transform Algorithm=\"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"/></Transforms><DigestMethod Algorithm=\"http://www.w3.org/2000/09/xmldsig#sha1\"/><DigestValue>6heGGPBujiKyL5tOgwud6u36TFU=</DigestValue></Reference></SignedInfo><SignatureValue>HfHyOSO+QUcRta7no4WqwJV3+GLG6ICiKqwXynwfDs0ASm1T1NwRBGqlZrUplR9kjzYGdDYeskr1\n IF3qRAAyMs6D2jHuK2a/vK3BVo1NQvcvXkwqJs6N0vy5fmeogfDQiIDio2OjaWPTOfohG+ysVCgh\n Hsx3wXBagP1q5BnxIT8UPm6ue5tADYhyc1vqZCZM4Nbi4vA5RjjD6B2SN25x+pbxEbkbwJAyMo2c\n gDB3XTfsWm/Y8vgbNQDOfPqa8DtkilWnG6XTwV58etE8/DJ44VUG6zUeuSMw6y8L/QDzuv0JthiS\n fBjMV9OYjqNlp6AzCcBwcI52vC6g3S1tf9x5lg==</SignatureValue></Signature></root>"
 
 jobs:
@@ -30,14 +30,14 @@ jobs:
 #        uses: webbertakken/unity-test-runner@v1.3
 #        with:
 #          projectPath: test-project
-#          unityVersion: 2019.2.11f1
+#          unityVersion: 2019.4.1f1
 
       # Build
 #       - name: Build project
 #         uses: webbertakken/unity-builder@v0.10
 #         with:
 #           projectPath: test-project
-#           unityVersion: 2019.2.11f1
+#           unityVersion: 2019.4.1f1
 #           targetPlatform: WebGL
 
 #       # Output
@@ -59,7 +59,7 @@ jobs:
 #       fail-fast: false
 #       matrix:
 #         unityVersion:
-#           - 2019.2.11f1
+#           - 2019.4.1f1
 #     steps:
 #       # Checkout repository
 #       - uses: actions/checkout@v2
@@ -79,17 +79,33 @@ jobs:
   requestActivation:
     name: Request activation ✔
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        unityVersion:
+          - 2019.4.1f1
     steps:
       - uses: actions/checkout@v2
       - uses: webbertakken/unity-activate@v1.2
+        with:
+          unityVersion: ${{ matrix.unityVersion }}
 
   activateAndThenReturnLicense:
     name: returnLicense 🎈
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        unityVersion:
+          - 2019.4.1f1
     steps:
       - uses: actions/checkout@v2
       - uses: webbertakken/unity-activate@v1.2
+        with:
+          unityVersion: ${{ matrix.unityVersion }}
       - uses: webbertakken/unity-return-license@v1
+        with:
+          unityVersion: ${{ matrix.unityVersion }}
 
 #  testRunnerInEditMode:
 #    name: Test in editmode 📝
@@ -197,7 +213,7 @@ jobs:
         projectPath:
           - test-project
         unityVersion:
-          - 2019.2.11f1
+          - 2019.4.1f1
         targetPlatform:
 #          - StandaloneOSX # Build a macOS standalone (Intel 64-bit).
 #          - StandaloneWindows # Build a Windows standalone.
